@@ -4,6 +4,6 @@ img {
   body {
     text-align: center;
     font-family: 'Arial';
-    background: azure;
-    color: purple;
+    background: blue;
+    color: rgb(255, 2, 2);
   }
